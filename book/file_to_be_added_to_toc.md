@@ -1,2 +1,2 @@
-# Title of the file to be added to the toc
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id diam non mauris auctor sollicitudin. Ut quis nunc lobortis, iaculis massa id, eleifend justo. Nulla ac auctor sapien. Etiam sit amet est a ex vestibulum porta. Nulla non lacus a purus luctus blandit sit amet non nibh. Curabitur vitae cursus dolor. Ut eu nisi nec enim ullamcorper fermentum.
+# Hier kan je de titel neerzetten
+En dan heb ik hier een stuk tekst. Alleen: ik moet naar een file toe zien te komen dat ik niet kan vinden.
